@@ -1,0 +1,46 @@
+@media (max-width: 768px) {
+    .col-md-3 {
+        width: 100%;
+    }
+
+    .col-md-8 {
+        width: 100%;
+    }
+}
+
+
+* {
+    color: whitesmoke;
+}
+
+html,
+body {
+    height: 100%;
+    overflow: hidden
+}
+
+body {
+    background-color: #343434;
+    background-size: auto;
+}
+
+
+
+.contenedor-tabla,
+.contenedor-añadir-clientes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#main-content.blur {
+    filter: blur(5px);
+}
+
+option{
+    color: black;
+}
+
+.download-json{
+    justify-content: right;
+}

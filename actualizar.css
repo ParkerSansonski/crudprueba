@@ -1,0 +1,11 @@
+body {
+    background-color: #343434;
+    background-size: auto;
+}
+
+
+.contenedor-editar{
+    display: block;
+    justify-content: center;
+}
+
